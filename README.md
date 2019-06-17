@@ -54,4 +54,4 @@ Futaba M202MD08A(2x20) VFD GPIO Interface Demo
 ## Removable parts(Optional)
 ![alt text](https://github.com/boricha/M202MD08A/blob/master/src/RemoveParts.jpg)
 ## watch this
-![alt text](https://github.com/boricha/M202MD08A/blob/P1090996.MOV)
+![alt text](https://github.com/boricha/M202MD08A/blob/master/P1090996.MOV)
