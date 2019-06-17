@@ -46,10 +46,10 @@ Futaba M202MD08A(2x20) VFD GPIO Interface Demo
  *   +--->  ▼ ▼ ▼ ▼ ▼ ▼ . . . ▼ ▼ ▼ ▼ ▼ ▼
 
 ## tada
-![alt text](https://github.com/boricha/M202MD08A/blob/master/tada.jpg)
+![alt text](https://github.com/boricha/M202MD08A/blob/master/src/tada.jpg)
 ## Pinout
-![alt text](https://github.com/boricha/M202MD08A/blob/master/pinout.jpg)
+![alt text](https://github.com/boricha/M202MD08A/blob/master/src/pinout.jpg)        
 ## Schematic
 ![alt text](https://github.com/boricha/M202MD08A/blob/schematic/schematic.jpg)
 ## Remove Parts(Optional)
-![alt text](https://github.com/boricha/M202MD08A/blob/master/RemoveParts.jpg)
+![alt text](https://github.com/boricha/M202MD08A/blob/master/src/RemoveParts.jpg)
