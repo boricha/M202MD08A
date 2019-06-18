@@ -1,6 +1,6 @@
 # M202MD08A
 Futaba M202MD08A(2x20) VFD GPIO Interface Demo
-[alt text](https://github.com/boricha/M202MD08A/blob/master/src/tada.jpg)
+![alt text](https://github.com/boricha/M202MD08A/blob/master/src/tada.jpg)
 
  * $Id: main.c 05:57 PM 2019-05-29 $
  *
